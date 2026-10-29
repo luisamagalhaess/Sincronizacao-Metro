@@ -5,6 +5,10 @@
 
 struct station {
     pthread_mutex_t lock;
+    pthread_cond_t  car_arrived;
+    pthread_cond_t  car_can_leave;
+    int free_seats;
+    int waiting;
 };
 
 void station_init(struct station *station);
