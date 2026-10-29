@@ -12,5 +12,6 @@ struct station {
 };
 
 void station_init(struct station *station);
+void station_wait_for_car(struct station *station);
 
 #endif
