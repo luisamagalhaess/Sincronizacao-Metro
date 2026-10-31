@@ -26,4 +26,58 @@ make: *** [Makefile:4: run] Error 127
 [?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
 [?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ pwd
 [?2004l/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro
-[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-M
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-MScript started on 2026-10-31 14:36:43-03:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="202" LINES="20"]
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+car entering station with 12 free seats
+Error: station_load_car returned early!
+make: *** [Makefile:4: run] Error 1
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -D_DEFAULT_SOURCE -pthread sync_car-runner.c sync_car.c -o sync_car
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+car entering station with 21 free seats
+Error: station_load_car returned early!
+make: *** [Makefile:5: run] Error 1
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -D_DEFAULT_SOURCE -pthread sync_car-runner.c sync_car.c -o sync_car
+[01m[Ksync_car-runner.c:[m[K In function ‘[01m[Kalarm_handler[m[K’:
+[01m[Ksync_car-runner.c:54:24:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfoo[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   54 | void alarm_handler([01;35m[Kint foo[m[K)
+      |                    [01;35m[K~~~~^~~[m[K
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+car entering station with 34 free seats
+car departed station with 34 new passenger(s) (expected 34)
+car entering station with 6 free seats
+car departed station with 6 new passenger(s) (expected 6)
+car entering station with 28 free seats
+car departed station with 28 new passenger(s) (expected 28)
+car entering station with 4 free seats
+car departed station with 4 new passenger(s) (expected 4)
+car entering station with 43 free seats
+car departed station with 28 new passenger(s) (expected 28)
+Looks good!
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -Wno-unused-parameter -std=c11 -D_DEFAULT_SOURCE -pthread sync_car-runner.c sync_car.c -o sync_car
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+car entering station with 27 free seats
+car departed station with 27 new passenger(s) (expected 27)
+car entering station with 0 free seats
+car departed station with 0 new passenger(s) (expected 0)
+car entering station with 45 free seats
+car departed station with 45 new passenger(s) (expected 45)
+car entering station with 39 free seats
+car departed station with 28 new passenger(s) (expected 28)
+Looks good!
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-31 14:56:57-03:00 [COMMAND_EXIT_CODE="0"]
