@@ -1,0 +1,29 @@
+bash: ./tp: No such file or directory
+Script started on 2026-10-29 18:06:33-03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="123" LINES="20"]
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [K]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+make: ./sync_car: No such file or directory
+make: *** [Makefile:4: run] Error 127
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [7m./sync_car[27m./sync_car
+[?2004lbash: ./sync_car: No such file or directory
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ ls
+[?2004l[0m[01;32mMakefile[0m  [01;32mREADME.md[0m  [01;32mevidencias.log[0m  [01;32msync_car.c[0m  [01;32msync_car.h[0m  [01;32msync_car.o[0m
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [7mscript -a evidencias.log[27mscript -a evidencias.log
+[?2004lScript started, output log file is 'evidencias.log'.
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make run
+[?2004l./sync_car
+make: ./sync_car: No such file or directory
+make: *** [Makefile:4: run] Error 127
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ [7m./tp 2>&1 | tee evidencias.log[27m./tp 2>&1 | tee evidencias.log
+[?2004lbash: ./tp: No such file or directory
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ make
+[?2004lgcc -Wall -Wextra -Wpedantic -std=c11 -pthread -c sync_car.c
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[01;32mluisa@LAPTOP-Q39GM9AS[00m:[01;34m/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro[00m$ pwd
+[?2004l/mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-Metro
+[?2004h]0;luisa@LAPTOP-Q39GM9AS: /mnt/c/Users/luisa/OneDrive/Área de Trabalho/lfm3/Sincronizacao-M

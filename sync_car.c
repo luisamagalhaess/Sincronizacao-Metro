@@ -21,3 +21,16 @@ void station_wait_for_car(struct station *station){
     pthread_cond_signal(&station->car_can_leave);
     pthread_mutex_unlock(&station->lock);
 }
+
+void station_load_car(struct station *station, int count){
+    pthread_mutex_lock(&station->lock);
+    station->free_seats = count;
+    pthread_cond_broadcast(&station->car_arrived);
+
+    while (station->waiting > 0 && station->free_seats > 0){
+        pthread_cond_wait(&station->car_can_leave, &station->lock);
+    }
+
+    station->free_seats = 0;
+    pthread_mutex_unlock(&station->lock);
+}
